@@ -20,3 +20,4 @@ Other software used: Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athe
 
 
 ## Using sample stock product data found online
+indexProcessed.csv
